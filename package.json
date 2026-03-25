@@ -1,25 +1,25 @@
 {
-  "name": "SHABAN-MD",
+  "name": "𝐊𝐀𝐋𝐈-𝐌𝐃𝟏",
   "version": "7.0.0",
-  "description": "WHATSAPP BOT CREATED BY MR SHABAN⁴⁵",
+  "description": "WHATSAPP BOT CREATED BY MR KHALI⁴⁵",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
-    "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name KHALI-MD1",
+    "stop": "pm2 stop KHALI-MD1",
+    "restart": "pm2 restart KHALI-MD1"
   },
   "keywords": [
-    "shaban-md",
+    "khali-md",
     "whatsapp-bot",
     "baileys-bot",
     "multi-device-bot",
     "nodejs-whatsapp-bot",
-    "mr-shaban",
-    "shaban-ai",
+    "mr-khali",
+    "khali-ai",
     "bandaheali-ai",
     "whatsapp-md-bot",
     "baileys-whatsapp",
-    "shaban-md-whatsapp-bot",
+    "kali-md1-whatsapp-bot",
     "chatbot"
   ],
   "dependencies": {
